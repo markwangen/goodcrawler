@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- 按照你的安装路径做更改 -->
-		<java.home>C:\Program Files\Java\jdk1.7.0_40</java.home>
+		<java.home>/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk</java.home>
 	</properties>
 
 	<dependencies>
